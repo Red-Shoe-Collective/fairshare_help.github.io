@@ -4,6 +4,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
 
 	<script src="js-yaml.min.js"></script>
 	<script>
@@ -14,7 +17,7 @@
 
 			var links = jsyaml.load(text);
 
-			windoW.links = links;
+			window.links = links;
 		})
 
 
@@ -22,11 +25,13 @@
 	<title>Links</title>
 </head>
 <body>
-  <header><h1>Fairshare Links</h1></header>
-
-	Links
+  <header>
+  	<a href="/">
+      <img src="/images/logo.png">
+    </a>
+    <h1>Fairshare Links</h1></header>
   <main>
-    <article>
+    <article id="links">
 	</article>
 	</main>
 
