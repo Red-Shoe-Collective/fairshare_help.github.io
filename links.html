@@ -7,14 +7,14 @@
 
 	<script src="js-yaml.min.js"></script>
 	<script>
-		fetch("links.html")
+		fetch("links.yaml")
 		.then(res => res.text())
 		.then(text => {
 			console.log(text);
 
 			var links = jsyaml.load(text);
 
-			windoe.links = links;
+			windoW.links = links;
 		})
 
 
