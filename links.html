@@ -25,9 +25,7 @@
 			for (const url of urls) {
 				const newLinkItem = document.createElement("li");
 				const newLink = document.createElement("a");
-				const newLinkURL = document.createAttribute("href");
-				newLinkURL.value = url;
-				newLink.appendAttribute(newLinkURL);
+				newLink.setAttribute("href", url);
 				const newLinkText = document.createTextNode(url);
 				newLink.appendChild(newLinkText);
 				newLinkItem.appendChild(newLink);
