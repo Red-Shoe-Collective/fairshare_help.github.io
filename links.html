@@ -27,6 +27,7 @@
 				const newLink = document.createElement("a");
 				const newLinkURL = document.createAttribute("href");
 				newLinkURL.value = url;
+				newLink.appendAttribute(newLinkURL);
 				const newLinkText = document.createTextNode(url);
 				newLink.appendChild(newLinkText);
 				newLinkItem.appendChild(newLink);
