@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="/css/style.css">
 
-	<script src="https://github.com/nodeca/js-yaml/blob/master/dist/js-yaml.min.js"></script>
+	<script src="js-yaml.min.js"></script>
 	<script>
 		fetch("links.html")
 		.then(res => res.text())
@@ -14,6 +14,7 @@
 
 			var links = jsyaml.load(text);
 
+			windoe.links = links;
 		})
 
 
