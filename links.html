@@ -13,14 +13,26 @@
 		fetch("links.yaml")
 		.then(res => res.text())
 		.then(text => {
-			console.log(text);
+			const links = jsyaml.load(text);
+			// TODO - randomly sort / shuffle urls
+			// TODO - include other metadata to allow user filtering in browser
 
-			var links = jsyaml.load(text);
+			const urls = links.urls;
+			window.urls = urls;
 
-			window.links = links;
+			const linksElement = document.getElementById("links");
+
+			for (const url of urls) {
+				const newLinkItem = document.createElement("li");
+				const newLink = document.createElement("a");
+				const newLinkURL = document.createAttribute("href");
+				newLinkURL.value = url;
+				const newLinkText = document.createTextNode(url);
+				newLink.appendChild(newLinkText);
+				newLinkItem.appendChild(newLink);
+				linksElement.appendChild(newLinkItem);
+			}
 		})
-
-
 	</script>
 	<title>Links</title>
 </head>
@@ -31,8 +43,11 @@
     </a>
     <h1>Fairshare Links</h1></header>
   <main>
-    <article id="links">
-	</article>
+    <article>
+    	<ul id="links">
+
+    	</ul>
+		</article>
 	</main>
 
   <footer>
