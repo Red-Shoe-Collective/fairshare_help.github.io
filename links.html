@@ -10,14 +10,30 @@
 
 	<script src="js-yaml.min.js"></script>
 	<script>
+		// Fisher-Yates shuffle via https://www.codemzy.com/blog/shuffle-array-javascript
+		function shuffleArray(array) {
+		  let length = array.length;
+		  let shuffle = array.slice(); // copy of array
+		  // loop over the array
+		  for (let i = length - 1; i > 0; i -= 1) {
+		    let random = Math.floor(Math.random() * (i + 1)); // random card position
+		    let current = shuffle[i]; // current card
+		    // swap the random card and the current card
+		    shuffle[i] = shuffle[random]; // move the random card to the current position
+		    shuffle[random] = current; // put the current card in the random position
+		  }
+		  return shuffle; // return shuffled array
+		};
+
 		fetch("links.yaml")
 		.then(res => res.text())
 		.then(text => {
 			const links = jsyaml.load(text);
 			// TODO - randomly sort / shuffle urls
 			// TODO - include other metadata to allow user filtering in browser
+			// TODO - include previews for links instead of just links, themselves	
 
-			const urls = links.urls;
+			const urls = shuffleArray(links.urls);
 			window.urls = urls;
 
 			const linksElement = document.getElementById("links");
@@ -31,7 +47,7 @@
 				newLinkItem.appendChild(newLink);
 				linksElement.appendChild(newLinkItem);
 			}
-		})
+		});
 	</script>
 	<title>Links</title>
 </head>
