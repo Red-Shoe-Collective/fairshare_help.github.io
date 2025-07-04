@@ -26,7 +26,7 @@
       return shuffle; // return shuffled array
     };
 
-    fetch("links.yaml")
+    fetch("https://fairshare.help/links.yaml")
     .then(res => res.text())
     .then(text => {
       const links = jsyaml.load(text);
