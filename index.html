@@ -56,6 +56,7 @@
         const newLinkItem = document.createElement("li");
         const newLink = document.createElement("a");
         newLink.setAttribute("href", url);
+        newLink.setAttribute("target", "none");
         const newLinkText = document.createTextNode(url);
         newLink.appendChild(newLinkText);
         newLinkItem.appendChild(newLink);
@@ -81,8 +82,17 @@
       </p>
       <p id="firstLink">
       </p>
-      <ul id="links">
-      </ul>
+      <p>
+        If every one who comes here just gives a little to whoever's request comes up for them there /\ then in time everyone will get something and if enough people do that then everyone will get what they need.
+      </p>
+      <p>
+        If you have more to give / are feeling generous, click here for a randomised list of others you can give to.
+      </p>
+      <input type="checkbox" id="linksControl" />
+      <label for="linksControl">
+        <ul id="links">
+        </ul>      
+      </label>
     </article>
   </main>
   <footer>

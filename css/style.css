@@ -56,6 +56,52 @@ html {
       }
     }
 
+    input#menuControl {
+      display: none;
+    }
+
+    input[type=checkbox] {
+      &:not(:checked) {
+        + label {
+          > nav > ul {
+            opacity: 0;
+            transform: scaleZ(0);
+            height: 0;
+            transition: 50ms;
+          }
+
+          > nav > .line {
+            display: block;
+            opacity: 1;
+            transition: 50ms;
+            width: 1.5em;
+            transform: scaleZ(1);
+          }
+        }
+      }
+
+      &:checked {
+        + label {
+          > nav > ul {
+            opacity: 1;
+            transition: 50ms;
+          }
+
+          > nav > .line {
+            transition: 50ms;
+            opacity: 1;
+            width: 100%;
+
+            height: 0.5px;
+
+            &:not(:first-child):not(:last-child) {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+
     footer {
       display: flex;
       position: relative;
