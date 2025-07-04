@@ -37,7 +37,20 @@
       const urls = shuffleArray(links.urls);
       window.urls = urls;
 
+      const firstLinkElement = document.getElementById("firstLink");
       const linksElement = document.getElementById("links");
+
+      let firstURL = urls.pop();
+
+      console.log(firstURL);
+      {        
+        const newLink = document.createElement("a");
+        newLink.setAttribute("href", firstURL);
+        newLink.setAttribute("target", "none");
+        const newLinkText = document.createTextNode(firstURL);
+        newLink.appendChild(newLinkText);
+        firstLinkElement.appendChild(newLink);
+      }
 
       for (const url of urls) {
         const newLinkItem = document.createElement("li");
@@ -51,7 +64,7 @@
     });
   </script>
   
-  <title>The Red Shoe Collective - Fair Share Bot</title>
+  <title>Fair Share Bot</title>
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -59,13 +72,17 @@
     <a href="/">
       <img src="/images/logo.png">
     </a>
-    <h1>The Red Shoe Collective - Fair Share Bot</h1>
+    <h1><a href="https://bsky.app/profile/fairshare.help">Fair Share Bot</a></h1>
   </header>
   <main>    
     <article>
+      <p>
+        Every time you come here you will see a randomly selected mutual aid link someone has submitted to the <a href="https://bsky.app/profile/fairshare.help">Fairshare.help</a> bot.
+      </p>
+      <p id="firstLink">
+      </p>
       <ul id="links">
       </ul>
-      <p>More coming soon..</p>
     </article>
   </main>
   <footer>
