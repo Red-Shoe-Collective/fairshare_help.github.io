@@ -4,6 +4,7 @@ urls:
   - https://account.venmo.com/u/Halaylah
   - https://account.venmo.com/u/juliah1456
   - https://account.venmo.com/u/KatXxXSugar
+  - https://account.venmo.com/u/LizTheGM
   - https://account.venmo.com/u/Luarien
   - https://account.venmo.com/u/MaTo4Kingz
   - https://account.venmo.com/u/ReveFisher
@@ -66,7 +67,9 @@ urls:
   - https://cash.app/$LavenderNights
   - https://cash.app/$lilacsghost
   - https://cash.app/$lisaflutterby
+  - https://cash.app/$LiterallyyPayMe
   - https://cash.app/$livinginjeopardy
+  - https://cash.app/$LizTheGM
   - https://cash.app/$longbongsilver
   - https://cash.app/$LoveNiki
   - https://cash.app/$Luarien
@@ -82,6 +85,8 @@ urls:
   - https://cash.app/$mimilapini
   - https://cash.app/$MisterBellum
   - https://cash.app/$MorgenMcDowell
+  - https://cash.app/$nagemenna
+  - https://cash.app/$Need
   - https://cash.app/$Nerdku
   - https://cash.app/$nochiquinn
   - https://cash.app/$NorickJF1984
@@ -170,6 +175,7 @@ urls:
   - https://chuffed.org/project/125259-help-me-save-my-family-and-escape-from-gaza-to-eygpt
   - https://chuffed.org/project/125317-urgent-help-for-ahmad-sameer-and-his-family
   - https://chuffed.org/project/125341-urgent-appeal-help-the-family-of-aya-and-imad
+  - https://chuffed.org/project/125572-khalil-family-aid-dire-needs
   - https://chuffed.org/project/125573-help-basem-hanin-raise-survival-funds-in-gaza
   - https://chuffed.org/project/125597-support-raghdas-family-rebuild-life
   - https://chuffed.org/project/125606-help-hind-and-her-family-rebuilding-lives-from-the-ashes
@@ -234,17 +240,20 @@ urls:
   - https://chuffed.org/project/129725-altbraa-mn-agl-aaaylty
   - https://chuffed.org/project/129748-iyads-family-in-gaza
   - https://chuffed.org/project/129750-we-dream-of-a-brighter-future-beyond-the-siege
+  - https://chuffed.org/project/129822-support-23-year-old-belal-to-provide-for-his-parents-and-five-siblings-in-gaza
   - https://chuffed.org/project/129852-support-firass-family-with-basic-needs-and-evacuation
   - https://chuffed.org/project/129873-donate-to-support-iman-ruqas-family-three-kids
   - https://chuffed.org/project/129917-support-my-beautiful-children-rebuild-in-gaza
   - https://chuffed.org/project/130019-help-drmoatasim-to-recover-and-build-his-life
   - https://chuffed.org/project/130053-help-azhar-survive-gaza-war
+  - https://chuffed.org/project/130093-help-mahmouds-family-escape-the-genocide-in-gaza
   - https://chuffed.org/project/130124-help-mahmoud-and-najibs-family
   - https://chuffed.org/project/130149-esraa-in-gaza
   - https://chuffed.org/project/130168-help-malak-care-for-her-disabled-sister-and-rebuild-her-future
   - https://chuffed.org/project/130189-help-shaheds-family-survive-and-thrive
   - https://chuffed.org/project/130190-donate-to-me-and-my-family-in-gaza
   - https://chuffed.org/project/130219-save-my-family-from-the-war-in-gaza
+  - https://chuffed.org/project/130225-help-yazan-and-yazid-survive
   - https://chuffed.org/project/130254-help-me-evacuate-my-family-from-gaza-to-egypt
   - https://chuffed.org/project/130260-help-nurse-ahmed-stay-alive
   - https://chuffed.org/project/130318-help-me-gain-strength-after-cancer
@@ -268,6 +277,7 @@ urls:
   - https://chuffed.org/project/131153-children-at-risk-in-gaza
   - https://chuffed.org/project/131238-living-in-a-tent-at-16-gaza-needs-you
   - https://chuffed.org/project/131259-help-ahmed-protect-his-family
+  - https://chuffed.org/project/131304-donate-to-secure-safety-for-yamens-family
   - https://chuffed.org/project/131321-support-a-doctor-to-fulfill-her-dreams-support-her-family
   - https://chuffed.org/project/131332-help-rasha-survive-in-gaza
   - https://chuffed.org/project/131346-save-mariam-a-little-girl-fighting-pain-and-seizures
@@ -304,6 +314,7 @@ urls:
   - https://chuffed.org/project/133412-children-at-risk-in-gaza
   - https://chuffed.org/project/133500-support-diyaa-a-home-a-future-and-hope-lost-in-gaza
   - https://chuffed.org/project/133512-help-fatima-rafiq-and-her-family-survive-the-genocide-in-gaza
+  - https://chuffed.org/project/133652-get-britt-and-topaz-to-safety
   - https://chuffed.org/project/133662-help-mahmoud-ahmed-and-his-family
   - https://chuffed.org/project/133919-support-hanadi-help-a-mother-and-her-family-survive
   - https://chuffed.org/project/133930-help-shahad-and-her-babies
@@ -323,6 +334,7 @@ urls:
   - https://chuffed.org/project/135588-support-hamza-salha
   - https://chuffed.org/project/135917-help-am-aabd-alrhmn-family
   - https://chuffed.org/project/136098-help-hossam-and-his-family
+  - https://chuffed.org/project/136274-please-help-18-year-old-rashad-and-his-family
   - https://chuffed.org/project/136343-help-my-family-to-live-and-go-to-a-safe-place
   - https://chuffed.org/project/136442-help-a-father-of-5-children-from-gaza
   - https://chuffed.org/project/136446-helpmohammed
@@ -336,33 +348,47 @@ urls:
   - https://chuffed.org/project/136776-please-save-thaer-and-his-daughters
   - https://chuffed.org/project/136799-rasha-a-sweet-baby-girl-in-gaza-needs-your-love
   - https://chuffed.org/project/136867-help-architect-in-gaza-survive-rebuild
+  - https://chuffed.org/project/136892-medical-campaign-x-sameer-project
   - https://chuffed.org/project/137024-leena-abdul-and-their-children-need-your-help-to-survive-in-gaza
   - https://chuffed.org/project/137040-help-haifa-and-her-children-rebuild-their-lives
   - https://chuffed.org/project/137231-help-wasem-and-his-family-with-their-medical-needs
   - https://chuffed.org/project/137279-help-mohammeds-family
   - https://chuffed.org/project/137597-help-for-baby-warda-family-in-gaza
+  - https://chuffed.org/project/137645-help-tareq-rebuild-his-future-through-education
   - https://chuffed.org/project/137708-helping-feed-my-children-and-family
   - https://chuffed.org/project/137767-help-baraas-family-in-gaza
+  - https://chuffed.org/project/138072-miras-campaign-for-survival
+  - https://chuffed.org/project/138138-support-mahmouds-family-in-central-gaza
   - https://chuffed.org/project/138209-save-razan-and-mohammad
   - https://chuffed.org/project/138236-help-tariqs-family
   - https://chuffed.org/project/138246-help-duaa
   - https://chuffed.org/project/138293-help-shadis-family-escape-gaza-and-survive
+  - https://chuffed.org/project/138303-help-tamer-al-naij-from-gaza-and-his-family-survive
+  - https://chuffed.org/project/138363-help-ismail-and-his-family-survive-in-gaza
   - https://chuffed.org/project/138470-help-noor-and-her-family-survive-in-gaza
   - https://chuffed.org/project/138484-support-etidals-family-after-tragedy
+  - https://chuffed.org/project/138530-help
   - https://chuffed.org/project/138601-help-jyad-and-his-family
   - https://chuffed.org/project/138603-help-amiras-family-find-safety-beyond-gaza
   - https://chuffed.org/project/138604-help-mohamed-and-his-family
   - https://chuffed.org/project/138853-help-khaled-and-his-family-survive-and-move-to-a-safer-place
+  - https://chuffed.org/project/138884-please-help-duaa-and-her-family-survive-in-gaza-palestine
   - https://chuffed.org/project/139029-urgent-help-for-ahmad-sameer-and-his-family
   - https://chuffed.org/project/139055-held-fadis-family
+  - https://chuffed.org/project/139088-roots-of-gaza-urgent-relief-project
   - https://chuffed.org/project/139097-help-ahmed-and-his-family-in-gaza
   - https://chuffed.org/project/139298-help-me-save-my-9-year-old-son-ruhan-from-hemophilia-a
   - https://chuffed.org/project/139722-ola
+  - https://chuffed.org/project/139894-please-help-me
+  - https://chuffed.org/project/140000-a-fathers-fight-saving-his
+  - https://chuffed.org/project/140056-help-adam-and-ahmed-survive
+  - https://chuffed.org/project/1532-help-abdul-karim-and-his-family
   - https://chuffed.org/project/666n
   - https://chuffed.org/project/a-cry-for-help-save-little-moudi-from-gaza
   - https://chuffed.org/project/abdullahfamily
   - https://chuffed.org/project/abeer
   - https://chuffed.org/project/ahmedaltaban
+  - https://chuffed.org/project/aid-for-alaas-family-in-gaza
   - https://chuffed.org/project/alharazinfamilyingaza
   - https://chuffed.org/project/allam
   - https://chuffed.org/project/amal
@@ -370,6 +396,7 @@ urls:
   - https://chuffed.org/project/baraa-tent-fund
   - https://chuffed.org/project/crips-for-esims-for-gaza
   - https://chuffed.org/project/deafgazans
+  - https://chuffed.org/project/deya
   - https://chuffed.org/project/duaa
   - https://chuffed.org/project/emergency-relief-for-noreens-family-in-gaza
   - https://chuffed.org/project/emergency-relief-for-ziad-julia-055823600-1748537187
@@ -423,6 +450,7 @@ urls:
   - https://chuffed.org/project/help-my-family-evacuate-from-gaza-aya
   - https://chuffed.org/project/help-naseem-and-his-family-in-gaza
   - https://chuffed.org/project/help-omar-escape-from-death-in-gaza
+  - https://chuffed.org/project/help-orphan-baby-susan
   - https://chuffed.org/project/help-ragheb-and-his-family-survive-in-gaza
   - https://chuffed.org/project/help-rawan-and-her-family-survive-the-onslaught-on-gaza
   - https://chuffed.org/project/help-ruaa-and-her-family
@@ -475,6 +503,7 @@ urls:
   - https://gogetfunding.com/help-dima-and-her-family-rebuild-their-lives-in-gaza/
   - https://gogetfunding.com/help-lex-secure-safe-housing/
   - https://gogetfunding.com/help-lune-defend-against-criminal-charges-for-protesting/
+  - https://gogetfunding.com/help-muhammad-and-his-family-escape-gaza/
   - https://gogetfunding.com/help-shahed-afford-food-for-her-family/
   - https://gogetfunding.com/help-the-moseen-family-survive-in-gaza/
   - https://gogetfunding.com/helping-charlie/
@@ -486,9 +515,11 @@ urls:
   - https://gogetfunding.com/saving-my-family-from-the-gaza-conflict/
   - https://ko-fi.com/abdalrhman55/gallery
   - https://ko-fi.com/ajiwings
+  - https://ko-fi.com/alex0671/goal
   - https://ko-fi.com/alpinemutt/goal
   - https://ko-fi.com/alyxx_retro_pc_gaming
   - https://ko-fi.com/alyxxretropcgaming
+  - https://ko-fi.com/alyxxretropcgaming/goal
   - https://ko-fi.com/andrieoc1/goal
   - https://ko-fi.com/anthonyjkenn38399
   - https://ko-fi.com/anthonyjkenn38399/goal
@@ -518,6 +549,7 @@ urls:
   - https://ko-fi.com/ctrlaltglitch
   - https://ko-fi.com/cybrdvl
   - https://ko-fi.com/das
+  - https://ko-fi.com/dentistlayla
   - https://ko-fi.com/destinydoodles
   - https://ko-fi.com/diana_nightbloom/shop
   - https://ko-fi.com/dra1g_/goal
@@ -531,6 +563,7 @@ urls:
   - https://ko-fi.com/ghastlygabo
   - https://ko-fi.com/godspeed420
   - https://ko-fi.com/gooddragongf/goal
+  - https://ko-fi.com/gwetswage
   - https://ko-fi.com/hellionpup
   - https://ko-fi.com/hmflg
   - https://ko-fi.com/IngridG1983
@@ -552,6 +585,7 @@ urls:
   - https://ko-fi.com/kylewithann/goal
   - https://ko-fi.com/laguerre
   - https://ko-fi.com/lavenbun/goal
+  - https://ko-fi.com/leaericah
   - https://ko-fi.com/librarysphinx/goal
   - https://ko-fi.com/lilithtreah/goal
   - https://ko-fi.com/linnybobinny/goal
@@ -668,6 +702,7 @@ urls:
   - https://www.gofundme.com/f/a-mothers-fight-for-her-children-survival-in-gaza
   - https://www.gofundme.com/f/a-plea-from-gaza-save-safaas-fam
   - https://www.gofundme.com/f/a-story-of-struggle-and-resilience-in-times-of-war
+  - https://www.gofundme.com/f/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   - https://www.gofundme.com/f/abdullah-and-his-family-need-urgent-help
   - https://www.gofundme.com/f/abdullahs-urgent-medical-needs-essentials
   - https://www.gofundme.com/f/adam-and-his-family-rebuild-their-lives-in-gaza
@@ -683,6 +718,7 @@ urls:
   - https://www.gofundme.com/f/alaa-and-her-family-evacuate-gaza-to-egypt
   - https://www.gofundme.com/f/ankthona-mn-almgaaa-fy-ghz-alatfal-ymoton-mn-algoaa
   - https://www.gofundme.com/f/arch-motaz
+  - https://www.gofundme.com/f/Arwas-Family
   - https://www.gofundme.com/f/Aspan
   - https://www.gofundme.com/f/assist-disabled-caretaker-in-finding-a-home
   - https://www.gofundme.com/f/assist-walids-family-in-departing-from-gaza-for-treatment
@@ -699,6 +735,7 @@ urls:
   - https://www.gofundme.com/f/beumqm-help-mohammed-his-family-get-out-of-gaza
   - https://www.gofundme.com/f/bkmn5y-help-my-family
   - https://www.gofundme.com/f/black-trans-disabled-artist-homeless
+  - https://www.gofundme.com/f/BlockadedGaza/wa/o
   - https://www.gofundme.com/f/bnnbkt-help-my-family
   - https://www.gofundme.com/f/Bodour-fights-for-her-kids
   - https://www.gofundme.com/f/brgdd-help-get-my-family-to-safety
@@ -730,6 +767,7 @@ urls:
   - https://www.gofundme.com/f/donate-to-feed-and-shelter-ayas-family
   - https://www.gofundme.com/f/donate-to-he%E2%80%A6
   - https://www.gofundme.com/f/donate-to-help-a-trans-woman-find-stability
+  - https://www.gofundme.com/f/donate-to-help-abeer-and-her-family
   - https://www.gofundme.com/f/donate-to-help-abeer-and-her-family/fb/o
   - https://www.gofundme.com/f/donate-to-help-hassan-and-his-family
   - https://www.gofundme.com/f/donate-to-help-mai-and-her-family-in-gaza
@@ -743,6 +781,7 @@ urls:
   - https://www.gofundme.com/f/donate-to-samar-almadhouns-medical-and-family-needs
   - https://www.gofundme.com/f/donate-to-save-a-dream-and-a-life
   - https://www.gofundme.com/f/donate-to-save-adhams-family-from-gaza
+  - https://www.gofundme.com/f/donate-to-save-hamza-and-his-families-lives
   - https://www.gofundme.com/f/donate-to-secure-a-bright-future-for-batwa-orphans
   - https://www.gofundme.com/f/donate-to-secure-tareqs-family-future
   - https://www.gofundme.com/f/donate-to-support-yahya-and-family
@@ -808,6 +847,7 @@ urls:
   - https://www.gofundme.com/f/help-a-disabled-trans-woman-keep-her-house-and-survive
   - https://www.gofundme.com/f/help-a-gazan-and-his-family-survive
   - https://www.gofundme.com/f/help-a-little-girl-overcome-heart-condition
+  - https://www.gofundme.com/f/help-a-mother-and-child-escape-war-in-gaza
   - https://www.gofundme.com/f/help-a-mother-of-5-survive-in-gaza
   - https://www.gofundme.com/f/help-a-small-gaza-family-to-survive
   - https://www.gofundme.com/f/help-a-trans-parent-afford-top-surgery
@@ -836,6 +876,7 @@ urls:
   - https://www.gofundme.com/f/help-ahmed-family-childern
   - https://www.gofundme.com/f/help-ahmed-get-his-clinic-back
   - https://www.gofundme.com/f/help-ahmed-ghilan-survive-the-war
+  - https://www.gofundme.com/f/help-ahmed-rebuild-his-home-and-life-in-gaza
   - https://www.gofundme.com/f/help-ahmed-to-survive-evacuate-gaza
   - https://www.gofundme.com/f/help-ahmeds-family-overcome-gazas-hardships
   - https://www.gofundme.com/f/help-ahmeds-family-rebuild-hope
@@ -888,9 +929,11 @@ urls:
   - https://www.gofundme.com/f/help-elham-to-survive-life-in-gaza
   - https://www.gofundme.com/f/help-eman-and-layans-family-from-gaza
   - https://www.gofundme.com/f/help-emily-get-medical-care
+  - https://www.gofundme.com/f/help-evacuate-mohammed-and-his-family-from-gaza
   - https://www.gofundme.com/f/help-fadi-and-his-family
   - https://www.gofundme.com/f/help-fadi-and-his-family-escape-the-war
   - https://www.gofundme.com/f/help-fadi-and-his-family-in-palestine
+  - https://www.gofundme.com/f/help-fadis-family-survive-after-losing-everything-in-gaza/wa/o
   - https://www.gofundme.com/f/help-family-of-6-evacuate-from-gaza-rafah
   - https://www.gofundme.com/f/help-family-of-three-soon-to-be-four-evacuate-to-safety
   - https://www.gofundme.com/f/help-father-hamdan-and-his-family-living-in-northern-gaza
@@ -918,8 +961,11 @@ urls:
   - https://www.gofundme.com/f/help-hind-support-her-family-in-gaza-until-they-can-leave
   - https://www.gofundme.com/f/help-holly-smile-again-after-trauma/cl/o
   - https://www.gofundme.com/f/help-hossam-and-his-family-rebuild-his-life-in-gaza
+  - https://www.gofundme.com/f/help-hussein-rebuild-and-heal-his-family
   - https://www.gofundme.com/f/help-ibrahim-rebuild-his-home-in-gaza
+  - https://www.gofundme.com/f/help-islam-and-her-children
   - https://www.gofundme.com/f/help-ivette-mir-escape-abuse-and-find-safety
+  - https://www.gofundme.com/f/help-jak-move-to-a-safer-environment
   - https://www.gofundme.com/f/help-jess-keep-afloat-and-raise-money-for-a-new-place
   - https://www.gofundme.com/f/help-jessi-secure-safe-accessible-housing-for-recovery
   - https://www.gofundme.com/f/help-jihads-family-survive-rebuild-in-gaza
@@ -941,9 +987,11 @@ urls:
   - https://www.gofundme.com/f/help-mai-and-her-children-escape-from-genocide
   - https://www.gofundme.com/f/help-mai-en-haar-gezin-de-oorlog-in-gaza-door
   - https://www.gofundme.com/f/help-malak-and-her-family-escape-the-genocide
+  - https://www.gofundme.com/f/help-maleks-family-survive-gaza-crisis-emergency-aid
   - https://www.gofundme.com/f/help-marginalized-gigworker-recover-from-emergency
   - https://www.gofundme.com/f/help-marwa-family
   - https://www.gofundme.com/f/help-matt-replace-tools-burned-in-eaton-fire
+  - https://www.gofundme.com/f/help-matteo-fight-infant-brain-tumor
   - https://www.gofundme.com/f/help-me-and-m-family
   - https://www.gofundme.com/f/help-me-and-my-family-in-gaza-uebz8
   - https://www.gofundme.com/f/help-me-and-my-family-leave-gaza-to-start-a-safe-life
@@ -1025,6 +1073,7 @@ urls:
   - https://www.gofundme.com/f/help-omar-and-his-family-of-9-evacuate-gaza
   - https://www.gofundme.com/f/help-omar-aziz-and-his-family-survive
   - https://www.gofundme.com/f/Help-Omar-get-out-of-the-Gaza-war
+  - https://www.gofundme.com/f/help-omar-rebuild-his-home-future-in-gaza
   - https://www.gofundme.com/f/help-omar-saves-his-family
   - https://www.gofundme.com/f/help-omars-family-survive-in-gaza
   - https://www.gofundme.com/f/help-palestinian-family-with-shelter
@@ -1040,8 +1089,10 @@ urls:
   - https://www.gofundme.com/f/help-rayaan-and-him-family
   - https://www.gofundme.com/f/help-rebuild-hope-for-maram-family-in-gaza
   - https://www.gofundme.com/f/help-rebuild-nadias-life-and-support-her-husbands-recovery
+  - https://www.gofundme.com/f/help-repair-antoines-moms-collapsing-home
   - https://www.gofundme.com/f/help-reunite-siblings-in-a-loving-home
   - https://www.gofundme.com/f/help-rivenharlow-finally-have-dentures-again
+  - https://www.gofundme.com/f/help-rola-and-her-children-from-starvation
   - https://www.gofundme.com/f/help-sabers-family-buy-food-and-drink-in-gaza-war
   - https://www.gofundme.com/f/help-sabreens-family-survive-war
   - https://www.gofundme.com/f/help-saeed-survive-war-and-famine-in-gaza
@@ -1055,6 +1106,7 @@ urls:
   - https://www.gofundme.com/f/help-sami-ibrahim-abu-alanin-and-his-family-survive
   - https://www.gofundme.com/f/help-samia-and-her-family-from-gaza
   - https://www.gofundme.com/f/help-sara-and-whats-left-of-her-family-survive
+  - https://www.gofundme.com/f/help-save-hisham-from-starvation/fb/o
   - https://www.gofundme.com/f/help-sehwel-family-with-their-medical-treatment
   - https://www.gofundme.com/f/help-shadi-and-his-family-in-gaza
   - https://www.gofundme.com/f/help-shereen-n-her-family-survive-n-flee-from-gaza
@@ -1075,6 +1127,7 @@ urls:
   - https://www.gofundme.com/f/help-the-shelp-muhammad-support-his-family-in-crisis
   - https://www.gofundme.com/f/help-the-sousi-family-to-treat-adam-and-rebuild-their-life
   - https://www.gofundme.com/f/help-the-zidane-family-survive-the-war-in-gaza
+  - https://www.gofundme.com/f/help-to-jihad
   - https://www.gofundme.com/f/help-to-live-and-rebuild-a-home
   - https://www.gofundme.com/f/help-tracy-and-richard-keep-their-home
   - https://www.gofundme.com/f/help-two-siblings-move-out
@@ -1091,6 +1144,7 @@ urls:
   - https://www.gofundme.com/f/help-us-rebuild-our-home-lives-after-gaza-war
   - https://www.gofundme.com/f/help-us-rebuild-our-lives-after-tragedy-in-gaza
   - https://www.gofundme.com/f/help-us-save-lives-be-a-part-of-hope-in-gaza
+  - https://www.gofundme.com/f/help-us-survive-and-meet-our-basic-needs
   - https://www.gofundme.com/f/help-us-to-make-the-family-leave-gaza-to-a-safer-place
   - https://www.gofundme.com/f/help-venus-kii-live-independently
   - https://www.gofundme.com/f/help-wafaa-a-gaza-mother-of-8-rebuild-after-losing-everyth
@@ -1138,6 +1192,7 @@ urls:
   - https://www.gofundme.com/f/jz5s8n-gaza-emergency-appeal-help-my-family
   - https://www.gofundme.com/f/jzg3f-help-keira
   - https://www.gofundme.com/f/k9uf43-help-my-family-evacuate-gaza
+  - https://www.gofundme.com/f/kg3d4-help-families-in-gaza-to-survive
   - https://www.gofundme.com/f/kmkrb2-rebuilding-a-house
   - https://www.gofundme.com/f/kzb6e-help-my-family
   - https://www.gofundme.com/f/legal-aid-for-kilmar-abregogarcias-government-abduction
@@ -1243,6 +1298,7 @@ urls:
   - https://www.gofundme.com/f/srman-help-heba-and-her-daughters-rebuild-their-lives
   - https://www.gofundme.com/f/ssh8uv-save-farah-and-her-family
   - https://www.gofundme.com/f/stand-with-akrams-family-in-gaza
+  - https://www.gofundme.com/f/stand-with-marah-sukkar-aid-for-gaza-family
   - https://www.gofundme.com/f/stand-with-nesey-stop-the-legal-harassment-of-a-csa-victim
   - https://www.gofundme.com/f/stand-with-queer-refugees-in-east-africarichards-story
   - https://www.gofundme.com/f/stand-with-tala-overcome-war-hardship
@@ -1300,6 +1356,7 @@ urls:
   - https://www.gofundme.com/f/support-sakhers-journey-to-a-brighter-future
   - https://www.gofundme.com/f/support-sobohs-family-in-finding-safety
   - https://www.gofundme.com/f/support-teri-in-keeping-her-family-home
+  - https://www.gofundme.com/f/support-the-awad-familys-journey-to-safety
   - https://www.gofundme.com/f/support-two-disabled-sisters-surviving-extermination-in-gaza
   - https://www.gofundme.com/f/support-TwoGazans
   - https://www.gofundme.com/f/support-zillys-cremation-service/cl/s
@@ -1323,6 +1380,7 @@ urls:
   - https://www.gofundme.com/f/together-to-rebuild-a-home-of-dignity
   - https://www.gofundme.com/f/traveling-to-a-safe-place-and-surviving-our-souls
   - https://www.gofundme.com/f/trkds-help-allam-in-gaza-rebuild-his-familys-life
+  - https://www.gofundme.com/f/under-the-rubble-i-live-help-hassan
   - https://www.gofundme.com/f/urgent-aid-for-almadhoun-familys-evacuation
   - https://www.gofundme.com/f/urgent-aid-for-hussams-family-in-gaza-help-them-survive
   - https://www.gofundme.com/f/urgent-aid-for-injured-breadwinner
@@ -1364,6 +1422,7 @@ urls:
   - https://www.gofundme.com/f/we-are-very-tied-the-war-has-exhausted-our-body
   - https://www.gofundme.com/f/We-fight-to-survive
   - https://www.gofundme.com/f/we-need-you-in-gaza-help-save-lives-waiting-for-Hope
+  - https://www.gofundme.com/f/wea66-support-for-overcoming-financial-struggles
   - https://www.gofundme.com/f/wij-zijn-niet-arm-wij-zijn-ontheemd
   - https://www.gofundme.com/f/x7fxye-hello-can-you-see-me
   - https://www.gofundme.com/f/x995y2-help-me-bring-my-dream-to-life
@@ -1374,6 +1433,7 @@ urls:
   - https://www.gofundme.com/f/z8nya-urgent-help-needed
   - https://www.gofundme.com/f/zhngh-help-mohammads-family-escape-gaza
   - https://www.gofundme.com/manage/zqgzdt-help-me-get-through-a-rough-patch
+  - https://www.paypal.com/3dg3ydaddies
   - https://www.paypal.com/biz/profile/DarkTilDawnRecords
   - https://www.paypal.com/ncp/payment/VHPW5Y4CPTP3A
   - https://www.paypal.com/paypalme/3dg3ydaddies
@@ -1430,6 +1490,7 @@ urls:
   - https://www.paypal.com/paypalme/LarxeneSavageNymph
   - https://www.paypal.com/paypalme/LawrenceRodrigues713
   - https://www.paypal.com/paypalme/leilamarzouk
+  - https://www.paypal.com/paypalme/LizTheGM
   - https://www.paypal.com/paypalme/loaytaiseer
   - https://www.paypal.com/paypalme/longbongsilver
   - https://www.paypal.com/paypalme/luarien
@@ -1442,6 +1503,8 @@ urls:
   - https://www.paypal.com/paypalme/MatthewStefon
   - https://www.paypal.com/paypalme/mcvaylens
   - https://www.paypal.com/paypalme/MichaelGomez47
+  - https://www.paypal.com/paypalme/mmdalmshrfa
+  - https://www.paypal.com/paypalme/MohammedAlkhoodary
   - https://www.paypal.com/paypalme/MohammedAziz607
   - https://www.paypal.com/paypalme/MohammedJaberSha1990
   - https://www.paypal.com/paypalme/Mohammedshba
@@ -1455,6 +1518,7 @@ urls:
   - https://www.paypal.com/paypalme/noahfisk
   - https://www.paypal.com/paypalme/NorickJF
   - https://www.paypal.com/paypalme/peach77
+  - https://www.paypal.com/paypalme/petpeachy
   - https://www.paypal.com/paypalme/Pipikwaniskwew
   - https://www.paypal.com/paypalme/popelizbet
   - https://www.paypal.com/paypalme/QueenStodge
@@ -1491,6 +1555,7 @@ urls:
   - https://www.paypal.com/pools/c/9eCMEh8aS5
   - https://www.paypal.com/pools/c/9evKNMFvPD
   - https://www.paypal.com/pools/c/9fvKp5ErGl
+  - https://www.paypal.com/pools/c/9gH2m27oFL
   - https://www.paypal.com/pools/c/9gkecgJNjt
   - https://www.paypal.com/pools/c/9gnUytLXrw
   - https://www.tumblr.com/amal-ashour-new
